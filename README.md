@@ -1,60 +1,75 @@
-# Yashwanth Devulapally
+<!--
+    Yashwanth Devulapally
+    Student engineer · DevOps · AI automation · backend · cybersecurity
+-->
 
-Student engineer building AI-powered automation, backend systems, and cloud infrastructure. I work across DevOps, workflow automation, AI/ML, cybersecurity, and full-stack development — shipping production platforms, client systems, and hackathon builds.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=120&section=header" alt="header"/>
 
-**Currently:** B.Tech CSE (AI & ML) at GRIET · AI & Automations Intern at [ParityBit Security](https://paritybitsecurity.com)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=25&duration=4000&pause=800&color=38BDF8&width=500&lines=Hello%2C+it's+Yashwanth+Devulapally;Student+Engineer+%C2%B7+DevOps+%C2%B7+AI+Automation" alt="Typing intro"/>
+</a>
 
----
+<div>
+  <img src="./assets/about_yashwanth.gif" alt="About Me Terminal GIF"/>
+</div>
 
-### Building now
+### Main skills
+[![Main Skills](https://skillicons.dev/icons?i=py,js,ts,java,dart,nodejs,express,react,flutter,mongodb,mysql,firebase,docker,aws,gcp,git,github,postman,figma)](https://skillicons.dev)
 
-- Threat intelligence and security product interfaces at ParityBit (ATLAS, company platforms)
-- Workflow automation with n8n, LLM pipelines, and AI agent integrations
-- Backend and infrastructure work across AWS, GCP, Railway, and Firebase
+### Automation & AI
+[![Automation & AI](https://skillicons.dev/icons?i=python,nodejs,docker,aws,gcp,firebase)](https://skillicons.dev)
 
----
+`n8n` · `LLM integrations` · `AI agents` · `API integrations` · `workflow automation` · `ML/CV/NLP`
 
 ### Selected projects
-
-| Project | What it is |
-|---------|-----------|
-| [**ATLAS**](https://github.com/Yash-d21/ThreatAtlas_ParityBitSecurity) | Threat intelligence dashboard for ParityBit — IOC triage, MITRE ATT&CK/D3FEND views, OSINT modules |
-| [**ParityBit Security**](https://github.com/Yash-d21/ParityBit_Security) | Company marketing site — React SPA, content-driven architecture, Vercel deployment |
-| [**Bolt Abacus**](https://github.com/Yash-d21/BoltAbacus_Frontend) | Abacus learning platform — multi-tenant backend (Node, MongoDB, Redis), React frontend |
-| [**Baymax**](https://github.com/Yash-d21/baymax) | AI education app — PDF ingestion, Gemini-powered summaries/quizzes/flashcards (GDGOC APIthen, 2nd place) |
-| [**InstaSpace AI**](https://github.com/Yash-d21/InstaSpaceAI) | AI interior design tool — room image upload, style presets, Gemini-based visualization |
-| [**GRIET ERP**](https://github.com/Yash-d21/GRIET_ERP) | Role-based ERP for academic institutions — student/teacher/HOD dashboards, timetable management |
-
----
-
-### Stack
-
-**Languages:** Python · JavaScript/TypeScript · Java · SQL · Dart
-
-**Backend & infra:** Node.js · Express · MongoDB · Redis · REST APIs · Docker · AWS · GCP · Firebase · Railway
-
-**Automation & AI:** n8n · LLM integrations (Gemini, Claude) · AI agents · API integrations · workflow automation · ML/CV/NLP
-
-**Frontend:** React · Flutter · Vite · Tailwind CSS
-
-**Security:** Threat intelligence tooling · OSINT interfaces · cybersecurity product development
-
----
+<div>
+  <a href="https://github.com/Yash-d21/ThreatAtlas_ParityBitSecurity">
+    <img src="https://img.shields.io/badge/ATLAS-Threat%20Intelligence-0F172A?style=for-the-badge&logo=shield&logoColor=38BDF8" alt="ATLAS"/>
+  </a>
+  <a href="https://github.com/Yash-d21/ParityBit_Security">
+    <img src="https://img.shields.io/badge/ParityBit%20Security-Cybersecurity%20Platform-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="ParityBit Security"/>
+  </a>
+  <a href="https://github.com/Yash-d21/BoltAbacus_Frontend">
+    <img src="https://img.shields.io/badge/Bolt%20Abacus-Full--Stack%20Platform-0F172A?style=for-the-badge&logo=node.js&logoColor=38BDF8" alt="Bolt Abacus"/>
+  </a>
+  <a href="https://github.com/Yash-d21/baymax">
+    <img src="https://img.shields.io/badge/Baymax-AI%20Education-0F172A?style=for-the-badge&logo=google&logoColor=38BDF8" alt="Baymax"/>
+  </a>
+  <a href="https://github.com/Yash-d21/InstaSpaceAI">
+    <img src="https://img.shields.io/badge/InstaSpace%20AI-GenAI%20Design-0F172A?style=for-the-badge&logo=google&logoColor=38BDF8" alt="InstaSpace AI"/>
+  </a>
+  <a href="https://github.com/Yash-d21/GRIET_ERP">
+    <img src="https://img.shields.io/badge/GRIET%20ERP-Role--Based%20ERP-0F172A?style=for-the-badge&logo=react&logoColor=38BDF8" alt="GRIET ERP"/>
+  </a>
+</div>
 
 ### Experience
-
 | Role | Organization | Period |
 |------|-------------|--------|
-| Founder's Office Intern | ParityBit Security | Apr 2026 – Jun 2026 |
+| AI & Automations Intern | ParityBit Security | Apr 2026 – Jun 2026 |
 | Full Stack Developer Intern | Bolt Abacus | Jun 2025 – Apr 2026 |
 | Full-Stack Developer & Product Lead | TARS Networks | Jan 2025 – Apr 2026 |
 
-**Selected recognition:** GDGOC APIthen 2nd place (Baymax) · Rashtrapati Nilayam AI & Robotics 3rd place · YC Startup School India · Microsoft for Startups
+**Recognition:** GDGOC APIthen 2nd place (Baymax) · Rashtrapati Nilayam AI & Robotics 3rd place · YC Startup School India · Microsoft for Startups
 
----
+### Connect with me
+<div>
+  <a href="https://www.linkedin.com/in/yashwanth-devulapally/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:yashwanthd.devulapally@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.tarsnetworks.tech/">
+    <img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8" alt="Website"/>
+  </a>
+  <a href="https://github.com/Yash-d21">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
-### Contact
+### Recruiter?
+> [!IMPORTANT]
+> Reach out on [LinkedIn](https://www.linkedin.com/in/yashwanth-devulapally/) or email [yashwanthd.devulapally@gmail.com](mailto:yashwanthd.devulapally@gmail.com).
 
-- Email: [yashwanthd.devulapally@gmail.com](mailto:yashwanthd.devulapally@gmail.com)
-- LinkedIn: [yashwanth-devulapally](https://linkedin.com/in/yashwanth-devulapally)
-- Website: [tarsnetworks.tech](https://www.tarsnetworks.tech/)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=120&section=footer" alt="footer"/>
