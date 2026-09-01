@@ -2,7 +2,7 @@
 
 Student engineer building AI-powered automation, backend systems, and cloud infrastructure. I work across DevOps, workflow automation, AI/ML, cybersecurity, and full-stack development — shipping production platforms, client systems, and hackathon builds.
 
-**Currently:** B.Tech CSE (AI & ML) at GRIET · Founder's Office Intern at [ParityBit Security](https://paritybitsecurity.com)
+**Currently:** B.Tech CSE (AI & ML) at GRIET · AI & Automations Intern at [ParityBit Security](https://paritybitsecurity.com)
 
 ---
 
